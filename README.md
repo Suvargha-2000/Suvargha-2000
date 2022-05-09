@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Suvargha
 - 👀 I’m interested in Python , C , Java , Arduino and also some development boards 
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Django and Java
 - 📫 You can contact me on : Suvargha2000@gmail.com
+- I learned Machine Learning and still learning,
 
 <!---
 Suvargha-2000/Suvargha-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
